@@ -1,0 +1,3 @@
+/home/marko/CLionProjects/TransformerSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marko/CLionProjects/TransformerSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marko/CLionProjects/TransformerSolver/cmake-build-debug/CMakeFiles/TransformerSolver.dir

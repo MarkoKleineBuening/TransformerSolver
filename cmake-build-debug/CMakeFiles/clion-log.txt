@@ -1,0 +1,6 @@
+/home/marko/software/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/marko/workspace/install/reldeb-gcc -G "CodeBlocks - Unix Makefiles" /home/marko/CLionProjects/TransformerSolver
+STP_FOUND: TRUE
+LLBMC libraries: /home/marko/workspace/install/reldeb-gcc/lib/libLLBMCCommandLine.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCTools.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCOutput.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCCallGraph.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCPasses.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCEncoder.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCAnalysis.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCTransformer.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCSolver.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCILR.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCSMT.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCSolver.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCResource.a/home/marko/workspace/install/reldeb-gcc/lib/libLLBMCUtil.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/marko/CLionProjects/TransformerSolver

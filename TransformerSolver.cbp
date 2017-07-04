@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TransformerSolver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marko/CLionProjects/TransformerSolver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marko/CLionProjects/TransformerSolver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marko/CLionProjects/TransformerSolver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TransformerSolver">
+				<Option output="/home/marko/CLionProjects/TransformerSolver/TransformerSolver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marko/CLionProjects/TransformerSolver"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marko/workspace/install/reldeb-gcc/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 TransformerSolver"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TransformerSolver/fast">
+				<Option output="/home/marko/CLionProjects/TransformerSolver/TransformerSolver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marko/CLionProjects/TransformerSolver"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marko/workspace/install/reldeb-gcc/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 TransformerSolver/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marko/CLionProjects/TransformerSolver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/SMTTranslator.cpp">
+			<Option target="TransformerSolver"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/SMTTranslator.h">
+			<Option target="TransformerSolver"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/Solver.cpp">
+			<Option target="TransformerSolver"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/Solver.h">
+			<Option target="TransformerSolver"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/main.cpp">
+			<Option target="TransformerSolver"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindLLBMC.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindComponents.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindLLVM.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindComponents.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindSTP.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/marko/CLionProjects/TransformerSolver/cmake/FindMinisat.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
